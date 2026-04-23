@@ -72,11 +72,32 @@ Enabled the account "cox.fij" on DC-1 and was able to log back into Client-1 usi
 <h2>Project 3</h2>
 
 <p>
+<img width="1914" height="1038" alt="image" src="https://github.com/user-attachments/assets/6f882db1-b566-4dff-8c51-c9719c852ea3" />
+</p>
+<p>
+Viewed the security logs on Client-1 as yoda_admin and found the 5 failed login attempts of cox.fij.
+</p>
+<br />
+
+<h2>Project 4</h2>
+
+<p>
+<img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/70a4481e-bbb7-461b-b6e6-7ad797c75a36" />
 
 </p>
 <p>
-Enabled the account "cox.fij" on DC-1 and was able to log back into Client-1 using the cox.fij account with a new password.
+Configured group policy on DC-1 to display a welcome message and title for machines on the domain.
 </p>
 <br />
+
+<p>
+<img width="1054" height="678" alt="image" src="https://github.com/user-attachments/assets/2137020a-7d6c-46fc-ba0f-86454a7fe250" />
+</p>
+<p>
+Logged in as cox.fij and the welcome message was displayed.
+</p>
+<br />
+
+
 
 
