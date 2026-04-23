@@ -20,12 +20,12 @@ This project will showcase group policy mangement within Active Directory.<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Project 1-Working with Account Lockouts
+- Project 2-Enabling and Disabling Accounts
+- Project 3-Observing Logs
+- Project 4-Implmenting a Welcome Message when Users Login
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Project 1</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
