@@ -28,18 +28,18 @@ This project will showcase group policy mangement within Active Directory.<br />
 <h2>Project 1</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1915" height="500" alt="image" src="https://github.com/user-attachments/assets/d68c1c88-c511-4205-9a52-9a841a727fc3" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured account lockout policy on DC-1 to where the duration of the lockout was 30 minutes, the account lockout threshold was after 5 invaild login attempts, and the reset counter for account lockout was 10 minutes.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="563" height="155" alt="image" src="https://github.com/user-attachments/assets/0b5bdb92-5ed4-407a-894e-b58744b17a26" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Failed to login in to Client-1 VM with account "cox.fij" after five failed attempts and account was locked out.
 </p>
 <br />
 
